@@ -1,0 +1,1 @@
+# emellop-senai-10-06-2026_vc_sj

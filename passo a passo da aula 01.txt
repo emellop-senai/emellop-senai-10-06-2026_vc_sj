@@ -1,0 +1,7 @@
+Passo a passo da primeira aula
+
+01: Instalação do Git
+02: Configuração global (user.name e user.email) - Git Bash]
+03: Inicializar o projeto - git init
+04: adicionar as coisas na stage
+05: commitar as alterações

@@ -1,0 +1,6 @@
+1 criar um arquivo .txt -> 2 abrir e editar esse arquivo .txt -> 3 usar o comando git add . ( ou git add nome_do_arquivo ) -> 4 usar o comando git commit -m "uma breve explicação do que você esta fazendo"
+
+lembre de sempre usar git status para ver o que está acontecendo e git diff para ver as mudanças 
+
+
+por ultimo deve usar git log para mostrar o histórico de mudanças, tirar um print dessa tela e enviar no AVA
